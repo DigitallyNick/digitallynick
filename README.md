@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @digitallynick
 - 👀 I’m interested in books, coffee and tech
 - 🌱 I’m currently learning how to code for fun
-- 💞️ I’m looking to collaborate on ideas and small projects
+- 💞️ I’m looking to for a mentor
 - 📫 How to reach me - Threads @digitallynick
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I've never broken a bone!
