@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @digitallynick
-- 👀 I’m interested in books, coffee and tech
-- 🌱 I’m currently learning how to code for fun
-- 💞️ I’m looking to for a mentor
-- 📫 How to reach me - Threads @digitallynick
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I've never broken a bone!
+- 🐻‍❄️ Hi, I’m Nick (@DigitallyNick)
+- ⚡️ Pronouns: he/him
+- 👀 I’m interested in books, engineering and tech
+- 🌱 I’m currently self-learning HTML, CSS & JavaScript
+- 🔓 I’m looking for a mentor
+- 📫 How to reach me: nickhayes.uk@outlook.com
+- 🔥 Fun fact: I used to be a silvermith
 
 <!---
 digitallynick/digitallynick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
