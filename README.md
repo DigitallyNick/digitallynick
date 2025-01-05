@@ -3,7 +3,7 @@
 - 👀 I’m interested in books, engineering and tech
 - 🌱 I’m currently self-learning HTML, CSS & JavaScript
 - 🔓 I’m looking for a mentor
-- 📫 How to reach me: nickhayes.uk@outlook.com
+- 📫 How to reach me: nickhayes.uk@proton.me
 - 🔥 Fun fact: I used to be a silvermith
 
 <!---
